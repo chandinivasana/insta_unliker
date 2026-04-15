@@ -2,7 +2,7 @@
 
 A professional-grade automation tool for managing your Instagram digital footprint. This tool allows you to bulk unlike posts and reels efficiently using your exported Instagram data.
 
-## 🚀 Features
+##  Features
 
 - **Session ID Support**: Bypass modern bot detection by using your active browser session.
 - **Smart Rate Limiting**: Intelligent delays and random breaks to mimic human behavior.
@@ -10,7 +10,7 @@ A professional-grade automation tool for managing your Instagram digital footpri
 - **Data-Driven**: Works directly with your official Instagram "Download Your Information" export.
 - **Cross-Platform**: Compatible with Windows, macOS, and Linux.
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository**:
    ```bash
@@ -25,7 +25,7 @@ A professional-grade automation tool for managing your Instagram digital footpri
    pip install ensta==5.2.9 tqdm colorama requests psutil moviepy==1.0.3
    ```
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### 1. Export Instagram Data
 - Go to Instagram Settings > Your Information > Download Your Information.
@@ -44,5 +44,3 @@ python instagram_unliker.py
 - Select **Add Account** -> **Login with Session ID**.
 - Follow the menu to start the unliking process.
 
-## ⚖️ License
-This project is for educational purposes. Use responsibly and in accordance with Instagram's Terms of Service.
