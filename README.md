@@ -1,4 +1,4 @@
-# Instagram Mass Unliker
+# Instagram Reels Unliker
 
 A professional-grade automation tool for managing your Instagram digital footprint. This tool allows you to bulk unlike posts and reels efficiently using your exported Instagram data.
 
